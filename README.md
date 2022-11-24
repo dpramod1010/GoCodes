@@ -8,3 +8,6 @@
 - go build
 - go run main.go
 - .\proj.exe
+# proj 1
+- enter pin number
+- area name will come automatically.
