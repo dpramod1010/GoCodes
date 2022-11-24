@@ -1,5 +1,4 @@
-# GoProjects
-- projet 2 =CRUD opration Using GOlang-
+# projet 2 CRUD opration Using GOlang-
 
 - go get -u github.com/gorilla/mux
 - go get -u gorm.io/driver/mysql
