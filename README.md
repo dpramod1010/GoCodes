@@ -1,4 +1,4 @@
-# GoCodes
+# GoProjects
 - projet 2 =CRUD opration Using GOlang-
 
 - go get -u github.com/gorilla/mux
